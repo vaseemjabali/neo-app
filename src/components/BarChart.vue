@@ -62,7 +62,7 @@ export default {
         labels: this.labels,
       datasets: [
         {
-          label: 'Data One',
+          label: 'Asteroids',
           backgroundColor: '#f87979',
           data: this.stats
         }
